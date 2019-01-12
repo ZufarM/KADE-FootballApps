@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="date_event" type="id"/>
+    <item name="home_team" type="id"/>
+    <item name="home_score" type="id"/>
+    <item name="away_score" type="id"/>
+    <item name="away_team" type="id"/>
+
+    <item name="date_event_fav" type="id"/>
+    <item name="home_team_fav" type="id"/>
+    <item name="home_score_fav" type="id"/>
+    <item name="away_score_fav" type="id"/>
+    <item name="away_team_fav" type="id"/>
+
+    <item name="rv_past_match" type="id"/>
+    <item name="rv_next_match" type="id"/>
+    <item name="rv_fav_match" type="id"/>
+    <item name="spinner" type="id" />
+    <item name="rv_past_list_match" type="id" />
+    <item name="list_search" type="id"/>
+    <item name="list_match_search" type="id" />
+    <item name="rv_search_match" type="id"/>
+    <item name="team_badge" type="id"/>
+    <item name="team_name" type="id"/>
+    <item name="rv_list_team" type="id"/>
+    <item name="player_profile" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="list_player" type="id"/>
+    <item name="team_badge_fav" type="id"/>
+    <item name="team_name_fav" type="id"/>
+    <item name="rv_next_list_match" type="id"/>
+    <item name="rv_search_team" type="id"/>
+    <item name="rv_fav_team" type="id"/>
+</resources>
